@@ -1,2 +1,2 @@
-# CSC-153-C-
+# CSC-153-C
 C# Repository
